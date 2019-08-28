@@ -1,11 +1,4 @@
 
-## Getting started
-
-1. Fork
-1. Create a feature branch
-1. Clone
-1. Pull Request
-
 # Mystery Word Game
 
 Let's build a mystery word game in Ruby!
