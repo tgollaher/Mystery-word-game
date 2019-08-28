@@ -51,18 +51,5 @@ You won! The word is
 dog
 ```
 
-## Some technical requirements
 
-*   The classes and methods you'll need are already defined in `main.rb`. It's your job to implement each method.
-*   You __will__ need to create new instances variables.
-*   Don't add any more code to global scope.
 
-## Tip
-
-* Ask for user input by using `gets.chomp`
-
-## Bonus
-
-*   Validate the user's input. If the user enters a non-alphabetical character, ask them to.
-*   If the user enters more than one letter at a time, tell them that's not okay.
-*   Let the players run the game again.
